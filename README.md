@@ -5,3 +5,6 @@ The application renders questions and is responsive to button clicks. It has a s
 To-do: Create a CSS to make the quiz visually appealing.
 Create page separation for the starting and ending pages.
 Use local storage to store the scores and initials after the user inputs the text and refreshes the page.
+Screenshots will be included once the application is complete.
+
+https://caroline-e-miller.github.io/coding-quiz-1/
